@@ -1,4 +1,10 @@
 # Polkadot PRE | System Requirements
 
-## Topic 1
-[...]
+## Requirements
+* Docker
+* MySQL Client
+* Browser
+* Storage (>50GB)
+* Bandwidth
+* Memory (>8GB)
+* Patience :)
