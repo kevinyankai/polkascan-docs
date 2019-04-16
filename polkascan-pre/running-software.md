@@ -4,7 +4,7 @@ The following steps allow you to run the Polkscan PRE stack by using our prebuil
 ## Run application with prebuilt Docker Hub images
 Git clone
 ```bash
-https://github.com/polkascan/polkascan-pre.git
+git clone https://github.com/polkascan/polkascan-pre.git
 ```
 
 Change directory
