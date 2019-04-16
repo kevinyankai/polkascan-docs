@@ -1,7 +1,4 @@
 # Polkascan PRE Documenation
-Polkascan PRE Documentation
-
-## About Polkascan PRE
 Polkscan PRE is Polkascan's Explorer stack for the Polkadot Runtime Environment.
 
 ## Topics
