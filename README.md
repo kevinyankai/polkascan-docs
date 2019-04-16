@@ -1,0 +1,2 @@
+# polkascan-docs
+Polkascan Documentation
