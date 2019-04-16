@@ -22,6 +22,11 @@ Check tags/releases
 git checkout [tag/release]
 ```
 
+Checkout depending submodules
+```bash
+git submodule update --init --recursive
+```
+
 During the first run let MySQL initialize (wait for 30 seconds)
 ```bash
 docker-compose up -d mysql
