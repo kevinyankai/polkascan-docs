@@ -38,6 +38,6 @@ docker-compose up
 ```
 
 ## Links
-* Polkascan Explorer GUI: http://localhost:8080
-* Harvester task monitor: http://localhost:5555
-* Harvester progress: http://localhost:8080/harvester/admin
+* Polkascan Explorer GUI: http://127.0.0.1:8080
+* Harvester task monitor: http://127.0.0.1:5555
+* Harvester progress: http://127.0.0.1:8080/harvester/admin
